@@ -62,8 +62,6 @@ class population:
                     temp=self.pop[i].genome[j]
                     self.pop[i].genome[j]=self.pop[i+1].genome[j]
                     self.pop[i+1].genome[j]=temp
-                ## if(random.randint(0,100)<101):  ## 100% chance   
-                ##    print(j)
             self.pop[i].print()
             self.pop[i+1].print()
             print()

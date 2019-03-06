@@ -1,4 +1,4 @@
-# Genetic-Algorithm_Forward-in-time-Simulations
+# Genetic-Algorithm_Forward-in-time-simulations
 
 
 ## Abstract

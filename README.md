@@ -3,7 +3,7 @@
 
 ## Abstract
 
-This expample looks at scenario of an evolution of a population of constant size of 40 over 30 non-overlapping generations.
+This example looks at scenario of an evolution of a population of constant size of 40 over 30 non-overlapping generations.
 The probability of genome crossover per genome position of 2 parental genomes depends on the position on the genome.
 The first case is more likely to be seen in biology where the crossover rates on the chromosome differ based on the position of genes on the chromosome. The results indicate that the maximum fitness is reached over short span of generations. Code written in Python.
 

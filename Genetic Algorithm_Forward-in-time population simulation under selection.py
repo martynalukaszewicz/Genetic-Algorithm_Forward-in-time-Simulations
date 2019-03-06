@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
-
-## coding: utf-8
 import random
 import copy
 import math
@@ -98,90 +95,5 @@ for i in range(ngen):  ## number of generations
     p1.reproduction()
     print(p1.avg_fitness)  ## print average fitness of population per generation
 p1.print()
-
-
-# In[41]:
-
-
-p1=population()
-for i in range(ngen):  ## number of generations
-    p1.reproduction()
-    print(p1.avg_fitness)  ## print average fitness of population per generation
-p1.print()
-
-
-# In[104]:
-
-
-#import matplotlib.pyplot as plt
-
-#plt.plot(p1.reproduction())
-
-#plt.show()
-random.randrange(0,pop_size-1)
-
-
-# In[40]:
-
-
-random.randint(0,0)-(10+1)
-
-
-# In[36]:
-
-
-p1.reproduction()
-
-
-# In[2]:
-
-
-print(cross_comp)
-
-
-# In[3]:
-
-
-gg=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28]
-gg[range(0,20)]
-
-
-# In[4]:
-
-
-1:30
-
-
-# In[ ]:
-
-
-(50, 2)
-
-
-# In[71]:
-
-
-cross_comp=[20,20,20,20,20,20,20,20,15,10,5,5,5,5,5,5,5,8,9,10,15,20,20,20,20,20,20,20,20,20]
-len(cross_comp)
-
-
-# In[68]:
-
-
-import itertools
-it = repeat(0,5)
-print(it)
-
-
-# In[111]:
-
-
-ggg="Hi"
-print(ggg)
-
-
-# In[ ]:
-
-
 
 

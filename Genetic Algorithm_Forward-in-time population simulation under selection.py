@@ -77,7 +77,7 @@ class population:
                 bestFit=self.pop[temp].fitness
         return winner
              
-    def calc_fitness(self):  ## calcu
+    def calc_fitness(self):  ## calculate fitness
         self.avg_fitness = 0
         for z in self.pop:
             z.calc_fitness()
